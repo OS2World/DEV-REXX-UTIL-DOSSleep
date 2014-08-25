@@ -1,0 +1,40 @@
+DosSleep 0.2
+
+Small utility  with src to make your cmd's smarter
+
+Usage:DosSleep NumSecods 
+When it work you can quit it by pressing "Q"
+
+SY,
+Evgen
+http://www.laser.ru/evgen
+
+
+
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: DosSleep.zip
+       Short Description: small progamm with src to make your cmds a bit smarter 
+        Long Description: cancellable delay in seconds 
+
+      Proposed directory
+           for placement: pub/os2/dev/rexx
+
+               Your name:  Evgeny Kotsuba
+           Email address: 
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? no
+
+Operating System/Version: OS/2
+ Additional requirements: 
+
+                Replaces: (none)
+
+
+
